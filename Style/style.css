@@ -55,6 +55,8 @@ body {
 
 .offer-img img {
     display: flex;
-
-    margin: 0 200px;
+    width: fit-content;
+    margin-left: 150px;
+    margin-right: 250px;
+    background-color: rgb(74, 73, 73) 50%;
 }
