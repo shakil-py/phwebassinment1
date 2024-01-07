@@ -1,0 +1,31 @@
+body {
+    margin:0 100px;
+}
+
+/* new year section.... */
+.newyearbaner {
+    background-size: contain;
+    background-image: url(/img/Banner\ Image.png );
+    background-repeat: no-repeat;
+    height: 500px;
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    border-radius: 16px;
+    /* background: linear-gradient(180deg, black 0%, rgb(68, 66, 66) 100%); */
+}
+
+.party-text h4 {
+    font-size: large;
+    margin: 0;
+    font-weight: 700px;
+
+
+}
+
+.party-text h1 {
+    margin: 0;
+    font-size: 80px;
+
+}
+/* offer section */
