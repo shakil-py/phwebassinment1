@@ -60,3 +60,24 @@ body {
     margin-right: 250px;
     background-color: rgb(74, 73, 73) 50%;
 }
+
+.party {
+    background-image: url(/img/Vectorrr.png);
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    padding: 100px;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    justify-content: space-between;
+
+}
+
+.party-text {
+    color: white;
+    
+}
+
+.party-img {
+    
+}
