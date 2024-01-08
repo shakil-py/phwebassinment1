@@ -88,7 +88,7 @@ main {
 
 }
 
-/* evont place and time */
+/* event place and time */
 .event {
     background: linear-gradient(180deg, pink 0%, white 100%);
     text-align: center;
@@ -103,6 +103,47 @@ main {
     padding: 10px;
     border-radius: 10px;
     border: 0;
+}
+
+/* best deal */
+.best-deal-img img {
+    border: 15px solid red;
+    text-align: center;
+    justify-items: center;
+    height: 380px;
+    width: 380px;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.bestdeal {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.best-deal h3 {
+    color: red;
+}
+
+.best-deal h1 {
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+.best-deal-img {
+    width: 50%;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+.best-deal-newyear h1{
+    color: red;
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
 }
 
 /* gift section */
