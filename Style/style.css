@@ -75,5 +75,21 @@ body {
 
 .party-text {
     color: white;
-    
+
+}
+
+/* gift section */
+.gift-text h3 {
+    color: red;
+}
+
+.gift-img {
+    display: flex;
+}
+
+.gift-img img {
+    margin: 5px;
+    border-radius: 16px;
+    height: 350px;
+    width: 400px;
 }
