@@ -61,6 +61,7 @@ main {
     background-color: rgb(74, 73, 73) 50%;
 }
 
+/* party section */
 .party {
     background-image: url(/img/Vectorrr.png);
     margin-top: 100px;
@@ -73,9 +74,35 @@ main {
 
 }
 
+.party-text button {
+    color: white;
+    background: red;
+    padding: 5px 10px;
+    font-size: 30px;
+    border-radius: 10px;
+    border: 0;
+}
+
 .party-text {
     color: white;
 
+}
+
+/* evont place and time */
+.event {
+    background: linear-gradient(180deg, pink 0%, white 100%);
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 100px;
+    border-radius: 16px;
+}
+
+.event button {
+    background: red;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: 0;
 }
 
 /* gift section */
