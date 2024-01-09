@@ -88,6 +88,34 @@ main {
 
 }
 
+/* offdeal */
+.offdeal {
+    text-align: center;
+
+}
+
+.offdeal span {
+    color: red;
+
+}
+
+.offdeal h1 {
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+}
+
+.top-img {
+    display: flex;
+    /* position:absolute; */
+
+}
+.gift{
+    position:absolute;
+    top:30px;
+    
+}
+
 /* event place and time */
 .event {
     background: linear-gradient(180deg, pink 0%, white 100%);
