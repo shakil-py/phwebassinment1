@@ -227,8 +227,7 @@ footer {
     align-items: center;
 }
 
-.info1 img,
-.info2 img {
+.info1 img,.info2 img {
     height: 30px;
     width: 30px;
     margin-right: 10px;
