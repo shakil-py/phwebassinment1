@@ -5,7 +5,7 @@ main {
 /* new year section.... */
 .newyearbaner {
     background-size: contain;
-    background-image: url(/img/Banner\ Image.png );
+    background-image: url(../img/Banner\ Image.png );
     background-repeat: no-repeat;
     height: 300px;
     color: white;
@@ -63,7 +63,7 @@ main {
 
 /* party section */
 .party {
-    background-image: url(/img/Vectorrr.png);
+    background-image: url(../img/Vectorrr.png);
     margin-top: 100px;
     display: flex;
     align-items: center;
