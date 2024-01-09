@@ -139,7 +139,8 @@ main {
     padding-right: 100px;
 
 }
-.best-deal-newyear h1{
+
+.best-deal-newyear h1 {
     color: red;
     font-size: 50px;
     margin: 0;
@@ -205,4 +206,30 @@ main {
     width: 50px;
     padding: 8px;
 
+}
+
+/* footer section */
+footer {
+    background: purple;
+}
+
+.main-footer {
+    padding: 50px 100px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.info1,
+.info2 {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+.info1 img,
+.info2 img {
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
 }
