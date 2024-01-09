@@ -104,6 +104,9 @@ main {
     margin: 0;
     padding: 0;
 }
+.offdeal h4{
+    margin: 0;
+}
 
 .offdealimg img {
     width: 100%;
