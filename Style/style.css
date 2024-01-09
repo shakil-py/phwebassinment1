@@ -104,7 +104,8 @@ main {
     margin: 0;
     padding: 0;
 }
-.offdeal h4{
+
+.offdeal h4 {
     margin: 0;
 }
 
@@ -112,7 +113,7 @@ main {
     width: 100%;
 }
 
-.top-img{
+.top-img {
     display: flex;
     width: 635px;
 }
@@ -127,6 +128,10 @@ main {
     padding: 50px;
     margin-bottom: 100px;
     border-radius: 16px;
+}
+
+.event span {
+    color: red;
 }
 
 .event button {
